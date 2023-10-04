@@ -16,9 +16,9 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            This is a multi-line test comment
-            - With GitHub **Markdown** :sparkles:
-            - Created by [create-or-update-comment][1]
+            Thanks @${{ github.event.issue.user.login}} for opening issue 
+            - We will get back to you 😉:
+            - Created by [harsh-100][1]
 
-            [1]: https://github.com/peter-evans/create-or-update-comment
+            [1]: https://github.com/harsh-100
           reactions: "+1"
