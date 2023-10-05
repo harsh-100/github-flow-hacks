@@ -1,7 +1,7 @@
 ---
 name: Bug Fix Request
 about: Suggest the bugs in the current code
-labels: improvement
+labels: bug
 ---
 
 ## Summary
