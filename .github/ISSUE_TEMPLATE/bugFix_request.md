@@ -2,6 +2,7 @@
 name: Bug Fix Request
 about: Suggest the bugs in the current code
 labels: bug
+assignees: harsh-100
 ---
 
 ## Summary
